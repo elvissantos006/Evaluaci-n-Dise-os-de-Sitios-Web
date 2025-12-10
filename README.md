@@ -2,6 +2,15 @@
 Grupo 3 - Tema: BiciExpress Quito (taller y alquiler de bicicletas)
 # BiciExpress Quito 
 
+---
+#INTEGRANTES:
+CABA JIMENEZ YURI MARITZA
+ERAS SANTOS ELVIS MATEO
+JIMENEZ AYALA OSCAR ORLANDO
+MONTAGUANO QUILLUPANGUI ERIKA TATIANA
+
+---
+
 Sitio web estático para **BiciExpress Quito**, un taller y servicio de alquiler de bicicletas en la ciudad de Quito.  
 El proyecto presenta una estructura clara, navegación funcional y diseño visual moderno, ideal para mostrar los servicios de forma accesible y atractiva.
 
